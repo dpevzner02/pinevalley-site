@@ -196,14 +196,17 @@ p {
 
 .section,
 .steps,
-.join-section {
+.join-section,
+.latest-section,
+.article {
   margin: 0 auto;
   max-width: 1180px;
   padding: clamp(56px, 8vw, 100px) clamp(20px, 5vw, 56px);
 }
 
 .intro-section,
-.join-section {
+.join-section,
+.latest-section {
   align-items: start;
   display: grid;
   gap: 40px;
@@ -257,6 +260,67 @@ p {
   max-width: 680px;
 }
 
+.latest-section {
+  align-items: center;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.latest-section .button {
+  justify-self: end;
+}
+
+.article {
+  max-width: 860px;
+  padding-top: 140px;
+}
+
+.article h1 {
+  font-size: clamp(2.8rem, 6vw, 5.8rem);
+}
+
+.article h2 {
+  font-size: clamp(1.6rem, 3vw, 2.6rem);
+  margin-top: 44px;
+}
+
+.article p,
+.article li {
+  font-size: 1.08rem;
+  line-height: 1.72;
+}
+
+.article ul,
+.article ol {
+  color: var(--muted);
+  padding-left: 1.4rem;
+}
+
+.article-lede {
+  color: #2f3b34;
+  font-size: clamp(1.18rem, 2vw, 1.4rem) !important;
+}
+
+.back-link {
+  color: var(--forest);
+  display: inline-block;
+  font-weight: 850;
+  margin-bottom: 28px;
+  text-decoration: none;
+}
+
+.article-callout {
+  background: #edf0e8;
+  border-left: 4px solid var(--gold);
+  border-radius: 8px;
+  margin: 46px 0;
+  padding: 28px;
+}
+
+.article-callout .button {
+  margin-top: 12px;
+}
+
 footer {
   border-top: 1px solid var(--line);
   color: var(--muted);
@@ -295,9 +359,14 @@ footer a {
 
   .intro-section,
   .join-section,
+  .latest-section,
   .steps,
   .topic-grid {
     grid-template-columns: 1fr;
+  }
+
+  .latest-section .button {
+    justify-self: stretch;
   }
 
   .button {
