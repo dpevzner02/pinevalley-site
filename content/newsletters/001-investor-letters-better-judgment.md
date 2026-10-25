@@ -131,7 +131,7 @@ Technology can help us gather information. But judgment is still the scarce reso
 
 ## This Week's Experiment
 
-Pick one decision you are currently making in money, work, health, or learning.
+Pick one decision you are currently making in wealth, work, health, or learning.
 
 Write answers to these five questions:
 
