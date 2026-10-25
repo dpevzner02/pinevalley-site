@@ -373,3 +373,19 @@ footer a {
     width: 100%;
   }
 }
+
+.signup-embed iframe {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  display: block;
+  height: 320px;
+  max-width: 100%;
+  width: 100%;
+}
+
+footer .disclaimer {
+  flex-basis: 100%;
+  font-size: 0.86rem;
+  margin: 0;
+}

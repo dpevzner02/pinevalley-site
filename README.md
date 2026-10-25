@@ -5,7 +5,7 @@ Static one-page website for Pine Valley Club.
 ## Links
 
 - Newsletter article: https://pinevalleyclub.substack.com/p/pine-valley-weekly-the-free-upgrades?r=z6yhm
-- Discord: https://discord.gg/XcpkyQz4u
+- Discord: old invite (discord.gg/XcpkyQz4u) is dead; add a new non-expiring invite where the `DISCORD INVITE` comments are in the HTML.
 
 ## Local Preview
 
