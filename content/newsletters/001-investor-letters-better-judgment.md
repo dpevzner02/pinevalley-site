@@ -143,7 +143,7 @@ Write answers to these five questions:
 
 If you try it, share your notes in Discord:
 
-https://discord.gg/XcpkyQz4u
+https://discord.gg/BSwXHrjJS
 
 ## Sources Read For This Issue
 
