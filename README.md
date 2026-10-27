@@ -4,7 +4,7 @@ Static one-page website for Pine Valley Club.
 
 ## Links
 
-- Newsletter article: https://pinevalleyclub.substack.com/p/pine-valley-weekly-the-free-upgrades?r=z6yhm
+- Newsletter article: https://pinevalleyai.substack.com/p/the-ai-story-moves-to-the-other-493
 - Discord: invite discord.gg/BSwXHrjJS expires Nov 24, 2026; replace it with a non-expiring invite before then.
 
 ## Local Preview
