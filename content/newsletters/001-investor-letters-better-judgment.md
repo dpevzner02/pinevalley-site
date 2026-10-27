@@ -157,7 +157,7 @@ https://discord.gg/BSwXHrjJS
 
 Subscribe to the weekly briefing:
 
-https://pinevalleyclub.substack.com
+https://pinevalleyai.substack.com
 
 Visit Pine Valley Club:
 
