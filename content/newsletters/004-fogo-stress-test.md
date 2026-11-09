@@ -3,7 +3,7 @@ SUBTITLE: Paul Singer's Elliott warns the mood could flip fast. Here's a calm wa
 
 Hi friends,
 
-Elliott Investment Management's October letter says investors could swing from FOMO to "FOGO," fear of getting obliterated. You may know the worry as "POGO," but FOGO is the letter's word. Whether or not Elliott is right, it's a good prompt to ask how your own plan holds up when the mood changes.
+Elliott Investment Management's October letter says investors could swing from FOMO to "FOGO," fear of getting obliterated. Whether or not Elliott is right, it's a good prompt to ask how your own plan holds up when the mood changes.
 
 ## 3 ideas
 
