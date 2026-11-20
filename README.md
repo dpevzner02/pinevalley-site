@@ -5,7 +5,7 @@ Static one-page website for Pine Valley Club.
 ## Links
 
 - Newsletter article: https://pinevalleyai.substack.com/p/the-ai-story-moves-to-the-other-493
-- Discord: invite discord.gg/BSwXHrjJS expires Nov 24, 2026; replace it with a non-expiring invite before then.
+- Discord: invite discord.gg/vMSg6cfwHw expires Nov 24, 2026; replace it with a non-expiring invite before then.
 
 ## Local Preview
 
