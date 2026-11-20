@@ -25,7 +25,7 @@ OpenAI released GPT-6.1 Terra on Oct 26, a fast model built for visual reasoning
 
 ## 1 experiment: the cash flow check
 
-Pick one company you follow, AI-related or not. Pull its last four quarters of operating cash flow and capital spending from its filings or investor relations site, run the prompt above, and compare the result with what management emphasized on its last call. Post the company's ratio and one thing that surprised you in #weekly-experiment on our Discord: https://discord.gg/BSwXHrjJS
+Pick one company you follow, AI-related or not. Pull its last four quarters of operating cash flow and capital spending from its filings or investor relations site, run the prompt above, and compare the result with what management emphasized on its last call. Post the company's ratio and one thing that surprised you in #weekly-experiment on our Discord: https://discord.gg/vMSg6cfwHw
 
 ## 1 discussion question
 
