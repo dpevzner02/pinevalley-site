@@ -25,7 +25,7 @@ ChatGPT's Chrome extension can now use your open tabs as context. It can summari
 
 ## 1 experiment: the S&P 493 audit
 
-Pick one non-tech company you follow and run the prompt above on its latest release or transcript. Then score it: does AI show up mostly as spending, as savings, or as revenue? Post your score and one surprising quote in #weekly-experiment on our Discord: https://discord.gg/BSwXHrjJS
+Pick one non-tech company you follow and run the prompt above on its latest release or transcript. Then score it: does AI show up mostly as spending, as savings, or as revenue? Post your score and one surprising quote in #weekly-experiment on our Discord: https://discord.gg/vMSg6cfwHw
 
 ## 1 discussion question
 
